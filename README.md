@@ -17,7 +17,7 @@ Usage
 -----
 
 ```python
-from publish3 import S3
+from s3upload import S3
 S3.upload_data_to_bucket('/Users/ma1/Documents/data/site', 'site.ma1.com')
 ```
 
